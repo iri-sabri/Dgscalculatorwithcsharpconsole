@@ -1,0 +1,5 @@
+/Users/apple/Projects/DgsCalculator/DgsCalculator/obj/Debug/DgsCalculator.csprojAssemblyReference.cache
+/Users/apple/Projects/DgsCalculator/DgsCalculator/bin/Debug/DgsCalculator.exe
+/Users/apple/Projects/DgsCalculator/DgsCalculator/bin/Debug/DgsCalculator.pdb
+/Users/apple/Projects/DgsCalculator/DgsCalculator/obj/Debug/DgsCalculator.exe
+/Users/apple/Projects/DgsCalculator/DgsCalculator/obj/Debug/DgsCalculator.pdb
