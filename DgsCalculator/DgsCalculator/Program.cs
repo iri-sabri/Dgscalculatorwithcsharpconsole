@@ -20,24 +20,35 @@ namespace DgsCalculator
              if (saydog > 60)
             {
                 Console.Write("Lütfen Doğru Yanlış Sayılarınızı Düzeltiniz");
+                Console.ReadKey();
             }
              else if (sayyan >  60)
             {
                 Console.Write("Lütfen Doğru Yanlış Sayılarınızı Düzeltiniz");
-
+                Console.ReadKey();
 
             }
              else if (sozdog > 60)
             {
                 Console.Write("Lütfen Doğru Yanlış Sayılarınızı Düzeltiniz");
-
+                Console.ReadKey();
 
             }
              else if (sozyan > 60)
             {
                 Console.Write("Lütfen Doğru Yanlış Sayılarınızı Düzeltiniz");
+                Console.ReadKey();
 
-
+            }
+            else if (saydog + sayyan > 60)
+            {
+                Console.Write("Lütfen Doğru Yanlış Sayılarınızı Düzeltiniz");
+                Console.ReadKey();
+            }
+            else if (sozdog + sozyan > 60)
+            {
+                Console.Write("Lütfen Doğru Yanlış Sayılarınızı Düzeltiniz");
+                Console.ReadKey();           
             }
              else
             {
